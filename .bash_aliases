@@ -1,0 +1,5 @@
+alias cls="clear"
+alias analize="fin blt phpcs"
+alias dcr="fin drush cr"
+alias flogin="fin drush user:password admin admin && fin drush uli"
+alias finit="fin init && flogin" 
